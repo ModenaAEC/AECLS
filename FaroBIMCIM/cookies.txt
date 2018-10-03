@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.browser-update.org	TRUE	/	FALSE	1999999999	__cfduid	d459119b8685542f1bfa7bf200651e6af1538599654
-constructionbim.faro.com	TRUE	/	FALSE	1999999999	pll_language	pt
-
